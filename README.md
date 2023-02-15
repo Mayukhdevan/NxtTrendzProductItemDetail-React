@@ -1,4 +1,5 @@
-In this project, let's build a **Nxt Trendz - Specific Product Details** app by applying the concepts we have learned till now.
+### Live Link:
+https://mdsecomm.ccbp.tech
 
 ### Refer to the image below:
 
